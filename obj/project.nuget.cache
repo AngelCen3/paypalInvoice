@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/EMrjJl+8fWBNrYCGdTXSP7+8vCmR6Nh9dx+nibVDY7iIL+6LZ+dwFMATAIsYxn/21iIWHd7JtZOV9C6x+1iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cliente\\source\\repos\\paypalInvoice\\paypalInvoice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.20\\microsoft.aspnetcore.authentication.negotiate.6.0.20.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.20\\microsoft.aspnetcore.connections.abstractions.6.0.20.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.extensions.features\\6.0.20\\microsoft.extensions.features.6.0.20.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\system.directoryservices.protocols\\6.0.2\\system.directoryservices.protocols.6.0.2.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
