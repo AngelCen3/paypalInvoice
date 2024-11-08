@@ -34,5 +34,5 @@ yarn-error.log*
 
 # Archivos de configuración sensibles
 appsettings.Development.json
-appsettings.json
+# appsettings.json
 app.config
